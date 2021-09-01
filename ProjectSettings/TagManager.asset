@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Tile Map
+  - Ta3weza
+  - Black Magic
+  - Eye
+  - Enemy
+  - Heart
+  - Health Image
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Back Ground
+  - Water
+  - UI
+  - Tile Map
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Back Ground
+    uniqueID: 2224528629
+    locked: 0
+  - name: Fore Ground
+    uniqueID: 1873924733
+    locked: 0
